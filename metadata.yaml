@@ -1,4 +1,8 @@
 _repo: Het-paddestoelenboekje_50300
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Cool, Catherina
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45806'
     url: http://www.gutenberg.org/2009/agents/45806
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50300#Het-paddestoelenboekje
 gutenberg_issued: '2015-10-24'
 gutenberg_type: Text
 identifiers:
