@@ -22,5 +22,7 @@ language: nl
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Het paddestoelenboekje
 url: http://www.gutenberg.org/ebooks/50300
